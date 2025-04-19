@@ -23,3 +23,18 @@ TOTAL - 70 points
 P.S. 
     
     Description(docx) - Stage 2. Use Cases.docx
+
+## Stage 3. Capstone Project Database Layer Design
+
+1. Defining unique entities - 40 points
+2. Identifying the type of entities (key, weak, and associative) - 20 points
+3. Identifying the relationships between entities - 40 points
+4. Identifying the attributes (key, weak key, derived, multivalued) - 20 points
+
+TOTAL - 120 points
+
+P.S. 
+    
+    Description(docx) - Stage 3. Database Layer Design
+
+
