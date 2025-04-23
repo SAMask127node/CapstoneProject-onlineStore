@@ -37,4 +37,21 @@ P.S.
     
     Description(docx) - Stage 3. Database Layer Design
 
+## Stage 4. Capstone Project Interface Design
+
+1. Defining the goal and users' objectives - 24 points
+2. Designing the wireframes - 24 points
+3. Designing the mockups - 24 points
+4. Creating the prototype - 24 points
+5. Developing a web version - 24 points
+
+TOTAL - 120 points
+
+P.S. 
+    
+    Stage 4. Interface Design Steps1-3
+    Stage 4. Interface Design Steps4
+    Stage 4  Step5,6
+    Stage 4  Step 7 petpalate_static_site
+
 
