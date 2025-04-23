@@ -1,0 +1,38 @@
+/* --- site‑wide reset --- */
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Poppins',sans-serif}
+body{background:#F8F8F4;color:#333}
+
+/* --- navigation --- */
+.site‑nav{display:flex;justify-content:space-between;align-items:center;padding:24px 64px}
+nav a{margin-left:32px;text-decoration:none;color:#333;font-size:16px}
+
+/* --- hero --- */
+.hero{display:flex;flex-direction:column;align-items:center;padding:120px 24px;background:#357A38;color:#fff}
+.hero h1{font-size:48px;font-weight:700;margin-bottom:24px}
+button{background:#357A38;color:#fff;border:none;border-radius:4px;padding:14px 32px;font-size:16px;cursor:pointer}
+.hero button{background:#fff;color:#357A38}
+
+/* --- categories --- */
+.categories{display:flex;justify-content:center;gap:64px;padding:96px 24px}
+.cat{display:flex;flex-direction:column;align-items:center;font-size:32px}
+.cat span{font-size:18px;margin-top:12px;color:#333}
+
+/* --- product grid --- */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:32px;padding:64px}
+.card{background:#fff;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,.08);padding:24px;text-align:center}
+.card img{width:100%;height:160px;object-fit:cover;border-radius:4px;margin-bottom:16px}
+h3{font-size:18px;margin:8px 0}
+.price{font-weight:600;margin-bottom:12px}
+
+/* --- cart page --- */
+.cart‑title{padding:24px 64px;font-size:24px;color:#357A38}
+ul{list-style:none;margin:40px 64px}
+li{display:flex;justify-content:space-between;align-items:center;background:#fff;margin-bottom:16px;padding:16px;border-radius:6px;box-shadow:0 1px 6px rgba(0,0,0,.05)}
+.total{font-size:20px;font-weight:600;margin:40px 64px}
+
+/* --- login form --- */
+form{background:#fff;padding:48px 64px;border-radius:8px;
+     box-shadow:0 2px 12px rgba(0,0,0,.1);display:flex;flex-direction:column;width:360px;
+     position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)}
+form input{padding:14px;border:1px solid #ccc;border-radius:4px;margin-bottom:16px;font-size:16px}
+form button{margin-top:8px}
